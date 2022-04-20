@@ -438,7 +438,7 @@
 }
 
 .alumni-info {
-  font-size: .875em;
+  font-size: 0.875em;
   line-height: 24px;
   margin-bottom: 33px;
 }
@@ -474,7 +474,7 @@
     background-color: rgb(62, 62, 62);
     text-align: right;
   }
-  
+
   .list-social {
     display: grid;
     grid-template-columns: auto auto auto auto auto;
@@ -488,24 +488,24 @@
     margin-block-end: 0;
     padding-inline-start: 0;
   }
-  
+
   .list-social li a {
     color: rgb(255, 255, 255);
     font-size: 0.813em;
     text-decoration: none;
   }
-  
+
   .facebook-page {
     width: 9px;
     height: 18px;
     color: #fff;
   }
-  
+
   .twitter-page {
     width: 20px;
     height: 17px;
   }
-  
+
   .navigation {
     display: flex;
     justify-content: space-between;
@@ -514,7 +514,7 @@
   }
 
   .mobile-menu {
-    display: none
+    display: none;
   }
 
   .logo {
@@ -524,7 +524,7 @@
     width: 130px;
     height: 51px;
   }
-  
+
   .menu-desk {
     display: grid;
     grid-template-columns: auto auto auto auto auto auto;
@@ -533,7 +533,7 @@
     margin: 0;
     padding: 0;
   }
-  
+
   .menu-desk li a {
     font-size: 0.938em;
     text-decoration: none;
@@ -546,7 +546,7 @@
     margin: 0;
     padding: 0;
   }
-  
+
   .menu-about li a {
     font-size: 0.813em;
     text-decoration: none;
@@ -562,7 +562,7 @@
     background-repeat: repeat;
     background-position: center center;
   }
-  
+
   .description {
     display: grid;
     grid-template-columns: auto;
@@ -570,7 +570,7 @@
     padding-top: 140px;
     width: 90%;
   }
-  
+
   .greatings {
     font-family: 'Cocogoose', sans-serif;
     font-size: 40px;
@@ -578,7 +578,7 @@
     margin: 0;
     text-align: left;
   }
-  
+
   .title {
     font-family: 'Lato', sans-serif;
     font-size: 100px;
@@ -586,7 +586,7 @@
     margin: 0;
     padding: 0;
   }
-  
+
   .info {
     width: 800px;
     border: 4px solid rgb(255, 255, 255);
@@ -596,19 +596,18 @@
     color: #272a31;
     margin: 51px 0;
   }
-  
+
   .location {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
-    padding-top: 40px;
     width: 800px;
     height: 135px;
     margin: 20px 20px 0;
     padding-top: 20px;
     padding-bottom: 100px;
   }
-  
+
   .dateinfo {
     font-size: 36px;
     font-weight: 700;
@@ -618,13 +617,13 @@
     margin-bottom: 4px;
     letter-spacing: -2px;
   }
-  
+
   .dateinfo p,
   .locate p {
     margin-block-start: 0;
     margin-block-end: 0;
   }
-  
+
   .locate {
     font-size: 1.5em;
     width: 90%;
@@ -641,12 +640,12 @@
     height: 637px;
     background-image: url(./Pictures/blackBg.jpg);
   }
-  
+
   .card-group {
     display: grid;
     grid-template-columns: auto auto auto auto auto;
   }
-  
+
   .card {
     display: flex;
     flex-direction: column;
@@ -659,7 +658,7 @@
     height: auto;
     background: rgba(255, 255, 255, 0.1);
   }
-  
+
   .card-img-top {
     width: 64px;
     height: 58px;
@@ -673,7 +672,7 @@
     align-items: center;
     justify-content: center;
   }
-  
+
   .card-title {
     width: 217px;
     height: 28px;
@@ -682,12 +681,12 @@
     font-size: 1.5em;
     font-weight: 700;
   }
-  
+
   .card-text {
     width: 217px;
     height: 58.5px;
     color: #fff;
-    font-size: .813em;
+    font-size: 0.813em;
     padding: 0 17px;
     line-height: 1.5em;
   }
@@ -740,6 +739,7 @@
     vertical-align: bottom;
     margin-top: 0.725em;
   }
+
   .partners-logo {
     display: grid;
     grid-template-columns: repeat(4, auto);
@@ -764,7 +764,7 @@
     width: 572px;
     height: auto;
   }
-  
+
   .alumni-promo {
     display: grid;
     grid-template-columns: auto auto;
@@ -772,5 +772,3 @@
     align-items: center;
   }
 }
-
-
