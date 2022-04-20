@@ -165,7 +165,6 @@
 }
 
 .location {
-  padding-top: 40px;
   width: 288px;
   height: 135px;
   margin: 0 16px;
@@ -210,7 +209,7 @@
   text-align: center;
   padding-top: 79px;
   padding-bottom: 79px;
-  margin:0;
+  margin: 0;
   color: #fff;
 }
 
@@ -226,7 +225,7 @@
   display: grid;
   grid-template-columns: auto auto;
   width: 100%;
-  margin: 0 0 .5em;
+  margin: 0 0 0.5em;
   padding: 16px 0;
   vertical-align: middle;
   height: auto;
@@ -234,7 +233,7 @@
   background: rgba(255, 255, 255, 0.1);
 }
 
-.card-body {
+.target-body {
   display: grid;
   grid-template-columns: auto auto;
   align-items: center;
@@ -262,7 +261,7 @@
   text-align: center;
   word-break: keep-all;
   color: #fff;
-  font-size: .813em;
+  font-size: 0.813em;
   padding: 0 17px;
   line-height: 1.5em;
 }
@@ -312,6 +311,9 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  font-size: 13px;
+  text-align: left;
+  padding-left: 20px;
 }
 
 .card-body {
@@ -332,12 +334,6 @@
   color: rgb(255, 79, 56);
   text-align: left;
   margin-top: 10px;
-}
-
-.description-member {
-  font-size: 13px;
-  text-align: left;
-  padding-left: 20px;
 }
 
 .Partner {
@@ -383,7 +379,6 @@
   flex-direction: column;
   align-items: center;
   justify-content: space-around;
-  align-items: center;
   height: 300px;
   background-color: #272a31;
 }
@@ -399,7 +394,7 @@
 }
 
 .licence {
-  font-size: .875em;
+  font-size: 0.875em;
   color: #272a31;
 }
 
