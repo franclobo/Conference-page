@@ -1,5 +1,26 @@
 {
   "dependencies": {
     "bootstrap": "^5.1.3"
-  }
+  },
+  "name": "capstone-project---conference-page",
+  "description": "",
+  "version": "1.0.0",
+  "main": "scripts.js",
+  "devDependencies": {
+    "hint": "^6.1.11"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franclobo/Capstone-project---Conference-page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/franclobo/Capstone-project---Conference-page/issues"
+  },
+  "homepage": "https://github.com/franclobo/Capstone-project---Conference-page#readme"
 }
