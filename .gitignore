@@ -1,4 +1,5 @@
-*.jason
+*.json
+*.hintrc
 # Logs
 logs
 *.log
