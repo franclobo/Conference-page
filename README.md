@@ -56,7 +56,9 @@ GitHub & Visual Studio Code
 
 # Deployment
 
-[Conference-page](https://franclobo.github.io/Conference-page/)
+[Conference-page](https://franclobo.github.io/Conference-page/)<br>
+![image](https://user-images.githubusercontent.com/58642949/176052636-2f25edcb-999a-4f26-9528-a3bd84a9fbfd.png)
+
 
 # Authors
 
