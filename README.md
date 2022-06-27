@@ -56,7 +56,7 @@ GitHub & Visual Studio Code
 
 # Deployment
 
-[Conference-page](https://franclobo.github.io/Capstone-project---Conference-page/)
+[Conference-page](https://franclobo.github.io/Conference-page/)
 
 # Authors
 
