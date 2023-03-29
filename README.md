@@ -56,7 +56,7 @@ GitHub & Visual Studio Code
 
 # Deployment
 
-[Conference-page](https://franclobo.github.io/Conference-page/)<br>
+[Conference-page](https://english-courses-page.netlify.app/)<br>
 ![image](https://user-images.githubusercontent.com/58642949/176052636-2f25edcb-999a-4f26-9528-a3bd84a9fbfd.png)
 ![image](https://user-images.githubusercontent.com/58642949/203119151-11932009-d65e-4ec8-8973-630d5dec74d2.png)
 ![image](https://user-images.githubusercontent.com/58642949/203119224-c0b4ea98-c3eb-4969-b7a7-93f0b7e6debe.png)
